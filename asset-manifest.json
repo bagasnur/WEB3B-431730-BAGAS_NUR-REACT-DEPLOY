@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/WEB3B-431730-BAGAS_NUR-REACT-DEPLOY/static/css/main.cd1490e1.chunk.css",
+    "main.js": "/WEB3B-431730-BAGAS_NUR-REACT-DEPLOY/static/js/main.c69b35ab.chunk.js",
+    "main.js.map": "/WEB3B-431730-BAGAS_NUR-REACT-DEPLOY/static/js/main.c69b35ab.chunk.js.map",
+    "runtime-main.js": "/WEB3B-431730-BAGAS_NUR-REACT-DEPLOY/static/js/runtime-main.a4e19295.js",
+    "runtime-main.js.map": "/WEB3B-431730-BAGAS_NUR-REACT-DEPLOY/static/js/runtime-main.a4e19295.js.map",
+    "static/css/2.2fbe55bd.chunk.css": "/WEB3B-431730-BAGAS_NUR-REACT-DEPLOY/static/css/2.2fbe55bd.chunk.css",
+    "static/js/2.716d4d1b.chunk.js": "/WEB3B-431730-BAGAS_NUR-REACT-DEPLOY/static/js/2.716d4d1b.chunk.js",
+    "static/js/2.716d4d1b.chunk.js.map": "/WEB3B-431730-BAGAS_NUR-REACT-DEPLOY/static/js/2.716d4d1b.chunk.js.map",
+    "index.html": "/WEB3B-431730-BAGAS_NUR-REACT-DEPLOY/index.html",
+    "precache-manifest.722c45a95ffbab69c98c212cb7c701e6.js": "/WEB3B-431730-BAGAS_NUR-REACT-DEPLOY/precache-manifest.722c45a95ffbab69c98c212cb7c701e6.js",
+    "service-worker.js": "/WEB3B-431730-BAGAS_NUR-REACT-DEPLOY/service-worker.js",
+    "static/css/2.2fbe55bd.chunk.css.map": "/WEB3B-431730-BAGAS_NUR-REACT-DEPLOY/static/css/2.2fbe55bd.chunk.css.map",
+    "static/css/main.cd1490e1.chunk.css.map": "/WEB3B-431730-BAGAS_NUR-REACT-DEPLOY/static/css/main.cd1490e1.chunk.css.map",
+    "static/js/2.716d4d1b.chunk.js.LICENSE.txt": "/WEB3B-431730-BAGAS_NUR-REACT-DEPLOY/static/js/2.716d4d1b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a4e19295.js",
+    "static/css/2.2fbe55bd.chunk.css",
+    "static/js/2.716d4d1b.chunk.js",
+    "static/css/main.cd1490e1.chunk.css",
+    "static/js/main.c69b35ab.chunk.js"
+  ]
+}
